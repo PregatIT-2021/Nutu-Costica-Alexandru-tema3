@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY2sZlqvwREyVUV3NnhhhVcUWfPL/RlQ+nskJHSYaUI7vNQkvMMQhSApgw0Qir7JOvuIjmg9DAQdfq7nRVYAbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kasko\\Desktop\\REST_API Nutu Costica-Alexandru\\Pregatit.MonkeyFinder.Services\\Pregatit.MonkeyFinder.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kasko\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Kasko\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

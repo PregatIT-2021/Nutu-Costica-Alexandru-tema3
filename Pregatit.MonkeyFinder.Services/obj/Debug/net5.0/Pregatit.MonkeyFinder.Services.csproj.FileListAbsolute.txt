@@ -1,0 +1,15 @@
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\Pregatit.MonkeyFinder.Services.deps.json
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\Pregatit.MonkeyFinder.Services.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\ref\Pregatit.MonkeyFinder.Services.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\Pregatit.MonkeyFinder.Services.pdb
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\Pregatit.MonkeyFinder.Core.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\bin\Debug\net5.0\Pregatit.MonkeyFinder.Core.pdb
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.csproj.AssemblyReference.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.AssemblyInfoInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.AssemblyInfo.cs
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.csproj.CoreCompileInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.csproj.CopyComplete
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\ref\Pregatit.MonkeyFinder.Services.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Services\obj\Debug\net5.0\Pregatit.MonkeyFinder.Services.pdb

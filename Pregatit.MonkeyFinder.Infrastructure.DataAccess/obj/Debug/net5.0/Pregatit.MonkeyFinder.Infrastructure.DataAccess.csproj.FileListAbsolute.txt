@@ -1,0 +1,12 @@
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\bin\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.deps.json
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\bin\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\bin\Debug\net5.0\ref\Pregatit.MonkeyFinder.Infrastructure.DataAccess.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\bin\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.pdb
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.AssemblyInfo.cs
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\ref\Pregatit.MonkeyFinder.Infrastructure.DataAccess.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Infrastructure.DataAccess\obj\Debug\net5.0\Pregatit.MonkeyFinder.Infrastructure.DataAccess.pdb

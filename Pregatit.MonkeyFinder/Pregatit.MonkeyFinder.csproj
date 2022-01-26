@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pregatit.MonkeyFinder.Core\Pregatit.MonkeyFinder.Core.csproj" />
+    <ProjectReference Include="..\Pregatit.MonkeyFinder.Infrastructure.DataAccess\Pregatit.MonkeyFinder.Infrastructure.DataAccess.csproj" />
+    <ProjectReference Include="..\Pregatit.MonkeyFinder.Repositories\Pregatit.MonkeyFinder.Repositories.csproj" />
+    <ProjectReference Include="..\Pregatit.MonkeyFinder.Services\Pregatit.MonkeyFinder.Services.csproj" />
+  </ItemGroup>
+
+</Project>

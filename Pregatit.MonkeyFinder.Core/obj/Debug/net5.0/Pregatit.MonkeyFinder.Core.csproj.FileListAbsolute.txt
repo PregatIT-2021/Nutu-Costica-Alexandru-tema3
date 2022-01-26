@@ -1,0 +1,12 @@
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\bin\Debug\net5.0\Pregatit.MonkeyFinder.Core.deps.json
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\bin\Debug\net5.0\Pregatit.MonkeyFinder.Core.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\bin\Debug\net5.0\ref\Pregatit.MonkeyFinder.Core.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\bin\Debug\net5.0\Pregatit.MonkeyFinder.Core.pdb
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.csproj.AssemblyReference.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.AssemblyInfoInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.AssemblyInfo.cs
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\ref\Pregatit.MonkeyFinder.Core.dll
+C:\Users\Kasko\Desktop\REST_API Nutu Costica-Alexandru\Pregatit.MonkeyFinder.Core\obj\Debug\net5.0\Pregatit.MonkeyFinder.Core.pdb
